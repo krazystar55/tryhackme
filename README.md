@@ -21,7 +21,7 @@ Ready to start hacking? **Let’s go!** 💥
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
 | **[Introductory Rooms](#intro-rooms)**           |     21       |            0               |
-| **[Linu Fundamentals](#linu-fundamentals)**      |      2       |            0               |
+| **[Linux Fundamentals](#linux-fundamentals)**      |      2       |            0               |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |            0               |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |            0               |
 | **[Reconnaissance](#recon)**                     |     10       |            0               |
@@ -125,7 +125,7 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
   
 - [ ] [🕵️ TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
   
-- [ ] [🕵️ TryHackMe | Linu File System Analysis](https://tryhackme.com/room/linufilesystemanalysis)
+- [ ] [🕵️ TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
   
 - [ ] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
   
@@ -164,19 +164,19 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
 - [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouo)
 
 
-## Linu Fundamentals
+## Linux Fundamentals
 
-- [ ] [🕵️ TryHackMe | Linu Modules](https://tryhackme.com/room/linumodules)
+- [ ] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
   
-- [ ] [🕵️ TryHackMe | Linu Fundamentals Part 1](https://tryhackme.com/room/linufundamentalspart1)
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
 ## Windows Fundamentals
 
-- [ ] [🕵️ TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1b)
+- [ ] [🕵️ TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
   
-- [ ] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals20)
+- [ ] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
   
-- [ ] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3z)
+- [ ] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
@@ -200,7 +200,7 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
 
 - [ ] [🕵️ TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
-- [ ] [🕵️ TryHackMe | Linu Strength Training](https://tryhackme.com/room/linustrengthtraining)
+- [ ] [🕵️ TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 - [ ] [🕵️ TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
@@ -410,7 +410,7 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
 
 ## Forensics
 
-- [ ] [🕵️ TryHackMe | Linu Incident Surface](https://tryhackme.com/room/linuincidentsurface)
+- [ ] [🕵️ TryHackMe | Linux Incident Surface](https://tryhackme.com/room/linuxincidentsurface)
   
 - [ ] [🕵️ TryHackMe | IR Playbooks](https://tryhackme.com/room/irplaybooks)
   
@@ -434,7 +434,7 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
 
 - [ ] [🕵️ TryHackMe | Digital Forensics Case B4DM755](https://tryhackme.com/room/caseb4dm755)
 
-- [ ] [🕵️ TryHackMe | Linu Server Forensics](https://tryhackme.com/room/linuserverforensics)
+- [ ] [🕵️ TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
 
 - [ ] [🕵️ TryHackMe | Forensics](https://tryhackme.com/room/forensics)
 
@@ -490,17 +490,17 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
 
 ## PrivEsc
 
-- [ ] [🕵️ TryHackMe | Linu Privilege Escalation](https://tryhackme.com/room/linprivesc)
+- [ ] [🕵️ TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
   
-- [ ] [🕵️ TryHackMe | Linu PrivEsc](https://tryhackme.com/room/linuprivesc)
+- [ ] [🕵️ TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
   
-- [ ] [🕵️ TryHackMe | Linu PrivEsc Arena](https://tryhackme.com/room/linuprivescarena)
+- [ ] [🕵️ TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
   
 - [ ] [🕵️ TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
   
 - [ ] [🕵️ TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
   
-- [ ] [🕵️ TryHackMe | Linu Agency](https://tryhackme.com/room/linuagency)
+- [ ] [🕵️ TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
   
 - [ ] [🕵️ TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
   
@@ -602,7 +602,7 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
 
 - [ ] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
   
-- [ ] [🕵️ TryHackMe | Linu Process Analysis](https://tryhackme.com/room/linuprocessanalysis)
+- [ ] [🕵️ TryHackMe | Linux Process Analysis](https://tryhackme.com/room/linuxprocessanalysis)
   
 - [ ] [🕵️ TryHackMe | CyberLens](https://tryhackme.com/room/cyberlensp6)
 
@@ -1090,7 +1090,7 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
 
 - [ ] [🕵️ TryHackMe | Splunk](https://tryhackme.com/room/bpsplunk)
 
-- [ ] [🕵️ TryHackMe | Linu Backdoors](https://tryhackme.com/room/linubackdoors)
+- [ ] [🕵️ TryHackMe | Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)
 
 - [ ] [🕵️ TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
 
@@ -1136,7 +1136,7 @@ This repository is packed with **500+ Free TryHackMe Rooms**, but there’s alwa
 
 - [ ] [🕵️ TryHackMe | Wordpress: CVE-2021-29447](https://tryhackme.com/room/wordpresscve202129447)
 
-- [ ] [🕵️ TryHackMe | Linu Function Hooking](https://tryhackme.com/room/linufunctionhooking)
+- [ ] [🕵️ TryHackMe | Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)
 
 - [ ] [🕵️ TryHackMe | REvil Corp](https://tryhackme.com/room/revilcorp)
 
